@@ -8,6 +8,14 @@ package main
 // Inicializando com letra '' minúscula ''
 // (Visivel APENAS dentro do pacote)
 
+// CONVENÇÃO GO
+
+// Ponto - Gerará algo público
+// ponto ou _Ponto - Gerará algo privado
+
+type Ponto struct {
+}
+
 func main() {
 
 }
